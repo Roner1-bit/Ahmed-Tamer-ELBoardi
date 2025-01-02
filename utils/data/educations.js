@@ -1,20 +1,26 @@
 export const educations = [
   {
     id: 1,
-    title: "Bachelor Degree",
-    duration: "2020 - Present",
-    institution: "National University of Bangladesh",
+    title: "PhD Candidate, Graduate School of Information Science",
+    duration: "2024 - Present",
+    institution: "University of Hyogo, Japan",
   },
   {
     id: 2,
-    title: "Higher Secondary Certificate",
-    duration: "2018 - 2020",
-    institution: "Noakhali Islamia Kamil Madrasah",
+    title: "Master's in Informatics and Machine Learning",
+    duration: "2023 - 2024",
+    institution: "Nile University, Egypt. GPA :3.94",
   },
   {
     id: 3,
-    title: "Secondary School Certificate",
-    duration: "2008 - 2018",
-    institution: "Baitus Saif Islamia Madrasah",
+    title: "Bachelor's Degree in Computer Science",
+    duration: "2018 - 2022",
+    institution: "Ahram Canadian University, Egypt. GPA: 3.87",
+  },
+  {
+    id: 4,
+    title: "High School",
+    duration: "Up to 2018",
+    institution: "Victory College Maadi, Egypt",
   }
-]
+];
